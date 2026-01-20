@@ -10,6 +10,7 @@ if (!rootElement) {
 // we don't know what will happen
 // and another one
 // for the sake of humanity
+//another one
 const root = ReactDOM.createRoot(rootElement);
 root.render(
   <React.StrictMode>
