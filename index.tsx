@@ -11,6 +11,7 @@ if (!rootElement) {
 // and another one
 // for the sake of humanity
 //another one
+// i hate this one
 const root = ReactDOM.createRoot(rootElement);
 root.render(
   <React.StrictMode>
