@@ -8,6 +8,8 @@ if (!rootElement) {
   throw new Error("Could not find root element to mount to");
 }
 // we don't know what will happen
+// for now and for th better 
+
 const root = ReactDOM.createRoot(rootElement);
 root.render(
   <React.StrictMode>
